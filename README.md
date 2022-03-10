@@ -33,10 +33,17 @@
 ## Define .env Gmail User Name And Password
 
 MAIL_MAILER=smtp
+
 MAIL_HOST=smtp.gmail.com
+
 MAIL_PORT=465
+
 MAIL_USERNAME=
+
 MAIL_PASSWORD=
+
 MAIL_ENCRYPTION=ssl
+
 MAIL_FROM_ADDRESS=admin@wlb.com
+
 MAIL_FROM_NAME=Admin Penal
